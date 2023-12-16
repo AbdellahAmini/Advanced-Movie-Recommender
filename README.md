@@ -1,4 +1,4 @@
-<center><h2><B> Advanced Movie Recommender System </B></h2></center>
+<center><h2><B> Advanced Movie Recommender </B></h2></center>
 
 
 
